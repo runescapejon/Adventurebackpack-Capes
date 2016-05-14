@@ -1,11 +1,19 @@
 {
-  "Dev": {
-    "capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/fx_cape.png",
-    "users": [
-      "runescapejon",
-      "ModdedNetworak"
-    ]
-  },
+	"Madman": {
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/madman_cape.png",
+		"users": [
+			"runescapejon",
+			"ModdedNetwork",
+			"gobears10",
+			"UnicornCutie",
+			"AlphaHybrid",
+			"mnathan12",
+			"LORD_ADAN",
+			"dandodo1813",
+			"mr_zoomer",
+			"stargazzgame"
+		]
+	},
   "LazerCorn3114": {
   	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/lazer_cape.png",
   	"users": [
