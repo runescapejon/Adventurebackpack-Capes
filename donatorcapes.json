@@ -14,7 +14,43 @@
 			"stargazzgame",
 			"FakeHerobrine57"
 		]
-	},
+         	},
+  "Psycho": {
+  	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/psycho_cape.png",
+  	"users": [
+  		"Wagger"
+  	]
+      },
+  "SuperCrazy": {
+  	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/supercrazy_cape.png",
+  	"users": [
+  		"ModdedNetworks"
+  	]
+      },
+   "VIP+": {
+  	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/VIP%2B_cape.png",
+  	"users": [
+  		"ModdedNetworks"
+  	]
+      },
+   "VIP": {
+  	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/VIP_cape.png",
+  	"users": [
+  		"ModdedNetworks"
+  	]
+      },
+    "Supporter": {
+  	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/supporter_cape.png",
+  	"users": [
+  		"ModdedNetworks"
+  	]
+      },
+    "Handyman": {
+  	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/Handy_cape.png",
+  	"users": [
+  		"ModdedNetworks"
+  	]
+      },
   "LazerCorn3114": {
   	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/lazer_cape.png",
   	"users": [
