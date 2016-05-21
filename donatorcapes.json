@@ -12,8 +12,8 @@
 			"dandodo1813",
 			"mr_zoomer",
 			"stargazzgame",
-			"FakeHerobrine57,
-			"xXStorm_LordXx
+			"FakeHerobrine57",
+			"xXStorm_LordXx"
 		]
          	},
   "Psycho": {
@@ -38,13 +38,15 @@
    "VIP": {
   	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/VIP_cape.png",
   	"users": [
-  		"ModdedNetworks"
+  		"ModdedNetworks",
+  		"Kenshix"
   	]
       },
     "Supporter": {
   	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/supporter_cape.png",
   	"users": [
-  		"ModdedNetworks"
+  		"ModdedNetworks",
+		"Eldonius"
   	]
       },
     "Handyman": {
