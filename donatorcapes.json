@@ -22,63 +22,69 @@
 			"fiveheadedbutt",
 			"Spideric115"
 		]
-         	},
-  "Psycho": {
-  	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/psycho_cape.png",
-  	"users": [
-  		"Wagger"
-  	]
-      },
-  "SuperCrazy": {
-  	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/supercrazy_cape.png",
-  	"users": [
-  		"ModdedNetworks"
-  	]
-      },
-   "VIP+": {
-  	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/VIP%2B_cape.png",
-  	"users": [
-  		"ModdedNetworks",
-  		"Natedog67"
-  	]
-      },
-   "VIP": {
-  	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/VIP_cape.png",
-  	"users": [
-  		"ModdedNetworks",
-  		"Kenshix"
-  	]
-      },
-    "Supporter": {
-  	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/supporter_cape.png",
-  	"users": [
-  		"ModdedNetworks",
-		"Eldonius"
-  	]
-      },
-    "Handyman": {
-  	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/Handy_cape.png",
-  	"users": [
-  		"ModdedNetworks"
-  	]
-      },
-  "LazerCorn3114": {
-  	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/lazer_cape.png",
-  	"users": [
-  		"LazerCorn3114"
-  	]
-  },
-  "Fxzionz_Pure": {
-  	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/fx_cape.png",
-  	"users": [
-  		"Fxzionz_Pure"
-  	]
-  },
-  "RoyalDemonic": {
-  	"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/royal_cape.png",
-  	"users": [
-  		"RoyalDemonic",
-  		"AlphaHybrid"
-  	]
-  }
+	},
+	"Psycho": {
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/psycho_cape.png",
+		"users": [
+			"Wagger"
+		]
+	},
+	"SuperCrazy": {
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/supercrazy_cape.png",
+		"users": [
+			"ModdedNetworks"
+		]
+	},
+	"VIP+": {
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/VIP%2B_cape.png",
+		"users": [
+			"ModdedNetworks",
+			"Natedog67"
+		]
+	},
+	"VIP": {
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/VIP_cape.png",
+		"users": [
+			"ModdedNetworks",
+			"Kenshix"
+		]
+	},
+	"Supporter": {
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/supporter_cape.png",
+		"users": [
+			"ModdedNetworks",
+			"Eldonius"
+		]
+	},
+	"Handyman": {
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/Handy_cape.png",
+		"users": [
+			"ModdedNetworks"
+		]
+	},
+	"LazerCorn3114": {
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/lazer_cape.png",
+		"users": [
+			"LazerCorn3114"
+		]
+	},
+	"Fxzionz_Pure": {
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/fx_cape.png",
+		"users": [
+			"Fxzionz_Pure"
+		]
+	},
+	"RoyalDemonic": {
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/royal_cape.png",
+		"users": [
+			"RoyalDemonic",
+			"AlphaHybrid"
+		]
+	},
+	"Awesome_Kitty01": {
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/kitty_cape.png",
+		"users": [
+			"Awesome_Kitty01"
+		]
+	}
 }
