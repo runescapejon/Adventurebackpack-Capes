@@ -100,5 +100,11 @@
 		"users": [
 			"BabyEndermanBro"
 		]
+	},
+	"Beast": {
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/Beast_cape.png",
+		"users": [
+			"BeasTAtRangE"
+		]
         }
 }
