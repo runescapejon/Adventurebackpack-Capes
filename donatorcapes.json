@@ -94,5 +94,11 @@
 		"users": [
 			"Ema_Rose"
 		]
+	},
+	"babyenderman": {
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/enderman_cape.png",
+		"users": [
+			"BabyEndermanBro"
+		]
         }
 }
