@@ -88,5 +88,11 @@
 		"users": [
 			"Awesome_Kitty01"
 		]
-	}
+	},
+	"emma": {
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/emma_cape.png",
+		"users": [
+			"Ema_Rose"
+		]
+        }
 }
