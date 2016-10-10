@@ -98,7 +98,8 @@
 		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/kitty_cape.png",
 		"users": [
 			"Awesome_Kitty01",
-			"cbf9d4f8-18ce-4e79-9384-53aa306abe73"
+			"cbf9d4f8-18ce-4e79-9384-53aa306abe73",
+			"KBearZen"
 		]
 	},
 	"emma": {
@@ -107,16 +108,11 @@
 			"Ema_Rose"
 		]
 	},
-	"KBearZen": {
-		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/kbear.png",
-		"users": [
-			"cbf9d4f8-18ce-4e79-9384-53aa306abe73"
-		]
-	},
 	"Shadow": {
 		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/shade.png",
 		"users": [
-			"37e3863a-164b-426a-b204-9a96378c3898"
+			"37e3863a-164b-426a-b204-9a96378c3898",
+			"Shade_Flame"
 		]
 	},
 	"Beast": {
