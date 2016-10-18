@@ -109,9 +109,10 @@
 		]
 	},
 	"Shadow": {
-		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/shade.png",
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/shade_cape.png",
 		"users": [
-			"Shade_Flame"
+			"Shade_Flame",
+			"37e3863a-164b-426a-b204-9a96378c3898"
 		]
 	},
 	"Beast": {
