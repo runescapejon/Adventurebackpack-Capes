@@ -33,12 +33,17 @@
 			
 		]
 	},
+	"endermancape": {
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/enderman_cape.png",
+		"users": [
+			"7c2b3d7f-5ba7-499b-b7f8-327eff57dc06",
+			"carlosquarepants"
+		]
+	},
 	"Psycho": {
 		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/psycho_cape.png",
 		"users": [
-			"Wagger",
-			"7c2b3d7f-5ba7-499b-b7f8-327eff57dc06",
-			"carlosquarepants"
+			"Wagger"
 		]
 	},
 	"SuperCrazy": {
