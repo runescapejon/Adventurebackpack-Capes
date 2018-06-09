@@ -146,9 +146,10 @@
 		]
 	},
 	"Beast": {
-		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/Beast_cape.png",
+		"capeUrl": "https://raw.githubusercontent.com/runescapejon/Adventurebackpack-Capes/master/capes/lizard.png",
 		"users": [
-			"BeasTAtModding"
+			"_Squeaks_",
+			"b47c09aa-71b8-4ebc-870b-3e72e3db1f1e"
 		]
         },
 	"mncape": {
